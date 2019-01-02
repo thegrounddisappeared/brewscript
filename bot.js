@@ -60,4 +60,4 @@ bot.on("message", message => {
     }
 });
 
-bot.login("NTI4MTg1ODk2ODE4NzA0Mzg0.DwzNrQ.6JD6n4hNw6QxBOs-KmH6IIHStSI");
+bot.login("no u use ur token damnit");
